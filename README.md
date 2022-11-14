@@ -1,2 +1,0 @@
-# sla15part
-YES
